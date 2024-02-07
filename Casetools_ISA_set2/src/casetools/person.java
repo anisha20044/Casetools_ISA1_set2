@@ -10,6 +10,8 @@ public class person {
 	public String getName() {
 		return name;
 	}
+	public int getAge() {
+		return age;
+	}
 	
-
 }
